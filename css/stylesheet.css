@@ -1,0 +1,39 @@
+
+
+a:link {text-decoration: none; color: #747474;}
+
+a:visited{text-decoration: none; color: #747474}
+
+a:hover{text-decoration: none; background-color: #efefef;}
+
+a:active{text-decoration: none; background-color: #efefef;}
+
+
+
+
+#inhalt
+{
+  width: 900px; margin-left: auto; margin-right: auto;font-family: "Helvetica",sans-serif;
+  letter-spacing: 4px; word-spacing: 7px;
+}
+
+#logo
+{
+  text-align: center; margin-left: auto; margin-right: auto; padding-bottom: 30px;padding-top: 5px;
+}
+
+#navigation
+{
+  text-align: center;font-size: 80%;padding-bottom: 20px;
+}
+
+#text
+{
+  font-size: 80%; letter-spacing: 1px;margin: 20px; font color: #2D2D2D;
+}
+
+
+#footer
+{
+  text-align: center; font-size: 60%;padding-top: 50px;padding-bottom: 20px;
+}
